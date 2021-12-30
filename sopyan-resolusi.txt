@@ -2,6 +2,7 @@ rencana Junior Programming kedepannya :
 - Menguasai skill git
 - mengusasai skill Frond End
 - mengusasai skill Back End
+ * Struktur fundamental
 - mengusasai skill Fullstack Developer
 - Belajar dengan lebih banyak Expert
 - Memmbuat Vlog
