@@ -2,6 +2,8 @@ Rencana ke depannya untuk Junior Programming :
 -> Javascript
  *ES6
  *Node.js
+  *Angular
+  *React
 -> PHP Framworks
+  * laravel
 -> Interview
--> Vlog / Maybe
